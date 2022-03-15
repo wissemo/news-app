@@ -1,0 +1,39 @@
+{
+  "langage": {
+    "english": "Anglais",
+    "french": "Français"
+  },
+  "errors": {
+    "server_failed": "Une erreur est survenue avec notre serveur veuillez réessayer ultérieurement",
+    "cash_failed": "Une erreur est survenue localement, veuillez effacer les données de l’application et réessayer",
+    "no_connexion": "Vous vous n'êtes pas connecté à internet, veuillez vérifier votre connexion et réessayer",
+    "upgrade_to_paid_plan": "Veuillez passer à un plan payant si vous avez besoin de plus de résultats",
+    "unexpected": "Une erreur inattendue s'est produite",
+    "invalid_date": "Date invalide",
+    "launch_url": "Échec du lancement du lien vers le site Web",
+    "invalid_image": "Image invalide "
+  },
+  "main_page": {
+    "all_news_loaded": "Toutes les nouvelles ont été chargées",
+    "title": "Accueil",
+    "no_saved_articles": "Aucun article trouvé ",
+    "categories": {
+      "business": "Entreprise",
+      "entertainment": "Divertissement",
+      "general": "Général",
+      "health": "Santé",
+      "science": "Science",
+      "sports": "Sport",
+      "technology": "Technologie"
+    },
+    "search_hint": "Rechercher"
+  },
+  "favorite_articles": {
+    "no_saved_articles": "Aucun article trouvé ",
+    "title": "Articles favoris"
+  },
+  "settings": {
+    "title": "Réglages",
+    "cancel": "Fermer"
+  }
+}

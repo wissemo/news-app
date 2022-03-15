@@ -1,0 +1,39 @@
+{
+  "langage": {
+    "english": "English",
+    "french": "French"
+  },
+  "errors": {
+    "server_failed": "An error has occurred with our server please try again later",
+    "cash_failed": "An error has occurred locally, please clear the application data and try again",
+    "no_connexion": "You are not connected to the internet, please check your connection and try again",
+    "upgrade_to_paid_plan": "Please upgrade to a paid plan if you need more results",
+    "unexpected": "Unexpected error occurred",
+    "invalid_date": "Invalid date",
+    "launch_url": "Failed to launch website link",
+    "invalid_image": "Invalid image"
+  },
+  "main_page": {
+    "all_news_loaded": "All News have been loaded",
+    "title": "Home",
+    "no_saved_articles": "No items found",
+    "categories": {
+      "business": "Business",
+      "entertainment": "Entertainment",
+      "general": "General",
+      "health": "Health",
+      "science": "Science",
+      "sports": "Sport",
+      "technology": "Technology"
+    },
+    "search_hint": "Search"
+  },
+  "favorite_articles": {
+    "no_saved_articles": "No items found",
+    "title": "Favorite articles"
+  },
+  "settings": {
+    "title": "Settings",
+    "cancel": "Cancel"
+  }
+}
