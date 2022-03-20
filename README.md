@@ -12,7 +12,7 @@ Une application d’actualités
 ## Architecture
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1A0rePb_ozA8KqK5vDNBwWGOfqdQykL6s/view?usp=sharing" alt="MVVM Architecture">
+  <img src="https://drive.google.com/uc?export=view&id=1A0rePb_ozA8KqK5vDNBwWGOfqdQykL6s" alt="MVVM Architecture">
 </p>
 
 ## Used Packages
